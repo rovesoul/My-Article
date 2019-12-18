@@ -16,3 +16,5 @@
 [打破学习边界，效率提升100%](https://github.com/rovesoul/My-Article/blob/master/%E6%89%93%E7%A0%B4%E5%AD%A6%E4%B9%A0%E8%BE%B9%E7%95%8C%EF%BC%8C%E6%95%88%E7%8E%87%E6%8F%90%E5%8D%87100%25.md)
 
 [意外遇大神，给我“上了一课”](https://github.com/rovesoul/My-Article/blob/master/%E6%84%8F%E5%A4%96%E9%81%87%E5%A4%A7%E7%A5%9E%EF%BC%8C%E7%BB%99%E6%88%91%E2%80%9C%E4%B8%8A%E4%BA%86%E4%B8%80%E8%AF%BE%E2%80%9D.md)
+
+[想翻盘？来先认真面对复盘！](https://github.com/rovesoul/My-Article/blob/master/%E6%83%B3%E7%BF%BB%E7%9B%98%EF%BC%9F%E6%9D%A5%E5%85%88%E8%AE%A4%E7%9C%9F%E9%9D%A2%E5%AF%B9%E5%A4%8D%E7%9B%98%EF%BC%81.md)
