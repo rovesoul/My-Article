@@ -14,3 +14,5 @@
 [停更这么久，我有话说](https://github.com/rovesoul/My-Article/blob/master/%E5%81%9C%E6%9B%B4%E8%BF%99%E4%B9%88%E4%B9%85%EF%BC%8C%E6%88%91%E6%9C%89%E8%AF%9D%E8%AF%B4.md)
 
 [打破学习边界，效率提升100%](https://github.com/rovesoul/My-Article/blob/master/%E6%89%93%E7%A0%B4%E5%AD%A6%E4%B9%A0%E8%BE%B9%E7%95%8C%EF%BC%8C%E6%95%88%E7%8E%87%E6%8F%90%E5%8D%87100%25.md)
+
+[意外遇大神，给我“上了一课”](https://github.com/rovesoul/My-Article/blob/master/%E6%84%8F%E5%A4%96%E9%81%87%E5%A4%A7%E7%A5%9E%EF%BC%8C%E7%BB%99%E6%88%91%E2%80%9C%E4%B8%8A%E4%BA%86%E4%B8%80%E8%AF%BE%E2%80%9D.md)
